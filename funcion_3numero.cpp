@@ -1,3 +1,5 @@
+//FALTA AUTOR Y FECHA
+
 #include <iostream>
 #include <cstdlib> // Para rand() y srand()
 #include <ctime>   // Para time()

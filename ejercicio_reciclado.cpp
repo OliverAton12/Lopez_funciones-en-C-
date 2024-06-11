@@ -1,3 +1,5 @@
+//FALTA AUTOR Y FECHA
+
 #include <iostream>  // Incluye la biblioteca iostream para las operaciones de entrada/salida
 using namespace std;
 

@@ -1,0 +1,5 @@
+Calificación: 1.8/3
+
+Las observaciones han sido ubicadas en cada archivo.
+No debe subir archivos .exe
+Utilice el archivo .gitignore para evitar subir los archivos .exe
